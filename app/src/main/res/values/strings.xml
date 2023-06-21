@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Health Lift</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="next">Next</string>
+    <string name="user_login">Login</string>
+    <string name="register">Register</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="get_registered">Get Registered.</string>
+    <string name="sign_in_title">Sign-In to Continue</string>
+    <string name="login_facebook">Facebook</string>
+    <string name="login_google">Google</string>
+    <string name="login_twitter">Twitter</string>
+    <string name="lets_get_started">Lets get started</string>
+    <string name="slide_1_title">Blood Pressure</string>
+    <string name="slide_2_title">Heart Beats </string>
+    <string name="slide_3_title">Sugar Level </string>
+    <string name="slide_4_title">Calories Intake</string>
+    <string name="slide_1_desc">Control your blood pressure with multiple build-in features like measurements graphs, comprehensive reports your doctor will love</string>
+    <string name="slide_2_desc"> Measure accurately your pulse and heart beat zone with your &amp; health monitor after sleeping or during workouts &amp; training.</string>
+    <string name="slide_3_desc">Get help with managing your diabetes, it is quick and easy! Ranked the Top Diabetes App by Healthline 3 times.</string>
+    <string name="slide_4_desc">MyFitnessPal is one of the most popular calorie counters right now. It tracks your weight and calculates a recommended daily calorie intake.</string>
+    <string name="do_not_have_any_account">Don\'t have any Account?</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="welcome_image_desc">welcome_image</string>
+    <string name="or">or</string>
+    <string name="welcome_tagline">Higher standards of care every day.</string>
+    <string name="skip_btn">skip</string>
+    <string name="profile">My Profile</string>
+    <string name="dynamics">Dynamics</string>
+    <string name="floating_btn_desc">Floating button dashboard description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="report">Report</string>
+    <string name="info">info</string>
+    <string name="info_knowledge"><![CDATA[Info & Knowledge]]></string>
+    <string name="add_record">Add Record</string>
+    <string name="mmhg">mmHg</string>
+    <string name="systolic">Systolic</string>
+    <string name="diastolic">Diastolic</string>
+    <string name="bmp">BMP</string>
+    <string name="pulse">Pulse</string>
+    <string name="sys_120_and_dia_80"><![CDATA[SYS < 120 and DIA < 80]]></string>
+    <string name="glycemic_index">Glycemic Index</string>
+    <string name="target_range">Target Range</string>
+    <string name="mg_dl">mg/dL</string>
+    <string name="low">Low</string>
+    <string name="normal">Normal</string>
+    <string name="diabetes">Diabetes</string>
+    <string name="kcal">kcal</string>
+
+
+    // info strings for title1
+    <string name="title1">Learn About Blood Pressure</string>
+    <string name="t1_subtitle1">Introduction</string>
+    <string name="t1_subtitle2">What is blood pressure</string>
+    <string name="t1_desc1">Many of those with high blood pressure don not know they have it, \nbecause there are usually no warning signs. \n\nThis can be dangerous, because high blood pressure can lead to life-threatening conditions like heart attack or stroke. \n\nThe good news is that you can often prevent or treat high blood pressure.\n</string>
+    <string name="t1_desc2">Blood pressure is the force of your blood pushing against the walls of your arteries. \n\nEach time your heart beats, it pumps blood into the arteries. \n\nYour blood pressure is highest when your heart beats, pumping the blood. This is called systolic pressure. \n\nWhen your heart is at rest, between beats, your blood pressure falls. This is called diastolic pressure.</string>
+
+    // info strings for title2
+    <string name="title2">How to prevent high blood pressure</string>
+    <string name="t2_subtitle1">Introduction</string>
+    <string name="t2_subtitle2">Lowering blood pressure by exercises</string>
+    <string name="t2_desc1">You can help prevent high blood pressure by having a healthy lifestyle. If you already have high blood pressure, it is important to prevent it from getting worse or causing complications. You should get regular medical care and follow your prescribed treatment plan. Your plan will include healthy lifestyle habit recommendations and possibly medicines.</string>
+    <string name="t2_desc2">You have probably heard that high blood pressure is a problem. Sometimes blood pressure that is too low can also cause problems. A normal persons blood pressure is 120/80, if your blood pressure reading is 90/60 or lower, you have low blood pressure. Some people have low blood pressure all the time. They have no symptoms and their low readings are normal for them. In other people, blood pressure drops below normal because of a medical condition or certain medicines. Some people may have symptoms of lower blood pressure when standing up too quickly. Low blood pressure is a problem only if it causes dizziness, fainting or in extreme cases, shock.</string>
+
+    // info strings for title3
+    <string name="title3">Diet plan for hypertension DASH</string>
+    <string name="t3_subtitle1">Introduction</string>
+    <string name="t3_subtitle2">The DASH eating plan:</string>
+    <string name="t3_desc1">DASH stands for Dietary Approaches to Stop Hypertension. It is an eating sponsored by the National Heart, Lung, and Blood Institute (NHLBI). These studies showed that DASH lowers high plan that is based on research studies blood pressure and improves levels of cholesterol. This reduces your risk of getting heart diseases.</string>
+    <string name="t3_desc2">Emphasizes vegetables, fruits, and whole-grains. \nIncludes fat-free or low-fat dairy products, fish, poultry, beans, nuts, and vegetable oils. \nLimits foods that are high in saturated fat. These foods include fatty meats, full-fat dairy products, and tropical oils such as coconut, palm kernel, and palm oils. \nLimits sugar-sweetened beverages and sweets. \nAlong with DASH, other lifestyle changes can help lower your blood pressure. They include staying at a healthy weight, exercising, and not smoking.</string>
+
+    // info strings for title4
+    <string name="title4">What are calories? Daily calories intake</string>
+    <string name="t4_subtitle1">Definition of calories:</string>
+    <string name="t4_subtitle2">What should my daily intake of calories be?</string>
+    <string name="t4_desc1">Calories are a measure of how much energy food or drink contains. The amount of energy you need will depend on: \nyour age – for example, growing children and teenagers may need more energy.\n\nyour lifestyle – for example, how active you are \n\nyour size – your height and weight can affect how quickly you use energy \n\nOther factors can also affect how much energy you burn. For example: \n\nsome hormones (chemicals produced by the body) – such as thyroid hormones \n\nsome medicines – such as glucocorticoids, a type of steroid used to treat inflammation \nbeing unwell</string>
+    <string name="t4_desc2">An ideal daily intake of calories varies depending on age, metabolism and levels of physical activity, among other things. \n\nGenerally, the recommended daily calorie intake is 2,000 calories a day for women and 2,500 for men.</string>
+
+    // info strings for title5
+    <string name="title5">Maintaining a healthy weight</string>
+    <string name="t5_subtitle1">Calories and kilocalories</string>
+    <string name="t5_subtitle2">Maintaining a healthy weight</string>
+    <string name="t5_desc1">The term calorie is commonly used as shorthand for kilocalorie. You will find this written as kcal on food packets. \n\nKilojoules (kJ) are the equivalent of kilocalories within the International System of Units, and you will see both kJ and kcal on nutrition labels. 4.2kJ is equivalent to approximately 1kcal.</string>
+    <string name="t5_desc2">To find out if you are a healthy weight, use the BMI calculator.\n\nTo maintain a healthy weight, you need to balance the amount of calories you consume through food and drink with the amount of calories you burn through physical activity. \n\nLosing weight: \nTo lose weight in a healthy way, you need to use more energy than you consume by eating a healthy, balanced diet with fewer calories while increasing your physical activity.\n\nGaining Weight:\nYou should get advice from the GP if you are underweight (your body mass index is less than 18.5). \nTo gain weight, you need to eat more calories than your body uses each day.</string>
+
+    // info strings for title6
+    <string name="title6">Pulse and Heart Rate</string>
+    <string name="t6_subtitle1">Introduction</string>
+    <string name="t6_subtitle2">What is your heart rate?</string>
+    <string name="t6_desc1">Your heart rate is the number of times each minute that your heart beats, which is normally between 60 and 100 times per minute for adults. \n\nYour pulse is a way you can feel each time your heart beats. Measuring your heart rate helps you monitor your own health and know if you are exercising at the right level to get the most benefits to your health.</string>
+    <string name="t6_desc2">Your heart rate is the number of times that your heart beats in a minute. Your body automatically controls your heartbeat to match whatever you are doing or what is happening around you. That is why your heartbeat gets faster when you are active, excited or scared, and drops when you are resting, calm or comfortable. \n\n Your heart rate is an important indicator of your overall health too. When your heart rate is too fast or too slow, that can be a sign of heart or other health problems. The ability to feel your heart rate throughout your body is also a potential way for doctors to diagnose medical conditions.</string>
+
+    // info strings for title7
+    <string name="title7">Blood Glucose Levels Means</string>
+    <string name="t7_subtitle1">What does a high blood glucose level mean?</string>
+    <string name="t7_subtitle2">What does a low blood glucose level mean?</string>
+    <string name="t7_desc1">If your fasting blood glucose level is 100 to 125 mg/dL (5.6 to 6.9 mmol/L), it usually means you have prediabetes. People with prediabetes have up to a 50% chance of developing Type 2 diabetes over the next five to 10 years. But you can take steps to prevent Type 2 diabetes from developing. \n\n If your fasting blood glucose level is 126 mg/dl (7.0 mmol/L) or higher on more than one testing occasion, it usually means you have diabetes. \n\n In either of these cases, your provider will likely order a glycated hemoglobin test (A1c) before diagnosing you with prediabetes or diabetes. An A1c shows your average blood sugar over a few months.</string>
+    <string name="t7_desc2">A blood sugar result of 70 mg/dL or lower is usually considered low. \n\n Low blood sugar (hypoglycemia) episodes are common in people with Type 1 diabetes and people with Type 2 diabetes who take certain medications. They’re much less common in people who don’t have diabetes.\n</string>
+
+    // info strings for title8
+    <string name="title8">Use a Continuous Glucose Monitor?</string>
+    <string name="t8_subtitle1">Should I Use a Continuous Glucose Monitor? </string>
+    <string name="t8_subtitle2">Bottom Line</string>
+    <string name="t8_desc1">While a finger stick blood sugar test gives you a static glimpse of your glucose level at that precise moment in time, a CGM is a more constant flow of information that provides a more complete picture and pattern of how you are doing. \n\nThis device monitors glucose levels under the skin, providing real-time results every 1 to 5 minutes. You insert a CGM on your body and wear it for 7 to 14 days, with the diabetes data being streamed to a separate handheld receiver or your smartphone app.</string>
+    <string name="t8_desc2">Glucose management is an important part of diabetes management. No magic number exists for (normal) glucose or blood sugar levels. While there are clinical guidelines on target goals for blood sugar levels and A1C tests, it is important to remember that (Your Diabetes May Vary).</string>
+    <string name="warning">warning</string>
+    <string name="less_than_72">less than 72</string>
+
+
+</resources>

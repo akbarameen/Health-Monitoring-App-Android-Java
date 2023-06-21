@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".Common.SplashScreen"
+    android:transitionName="splashAnimation"
+    android:id="@+id/splash_screen"
+    >
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_centerInParent="true">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottie_splash"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/splash_anim" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottie_anim_splash"
+        android:layout_width="170dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        app:lottie_autoPlay="true"
+        android:layout_marginTop="20dp"
+        app:lottie_loop="false"
+        app:lottie_rawRes="@raw/logo_health_lift" />
+
+</LinearLayout>
+
+<!--    android:transitionName="appNameAnimation"-->
+<!---->
+<!--    <TextView-->
+<!--        android:id="@+id/app_name_id"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="30dp"-->
+<!--        android:fontFamily="cursive"-->
+<!--        android:text="@string/app_name"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="38sp"-->
+<!--        android:textStyle="bold"-->
+<!--        android:transitionName="appNameAnimation" />-->
+
+
+
+
+
+</RelativeLayout>
