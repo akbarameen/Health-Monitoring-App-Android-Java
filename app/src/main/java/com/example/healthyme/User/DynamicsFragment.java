@@ -1,67 +1,42 @@
 package com.example.healthyme.User;
 
 import android.annotation.SuppressLint;
-import android.app.Dialog;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.graphics.Color;
-import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
-
 import androidx.fragment.app.Fragment;
-
-import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.Window;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
-
 import com.example.healthyme.Database.DbHelper;
-import com.example.healthyme.Entities.HistoryCIModel;
 import com.example.healthyme.R;
-import com.example.healthyme.Sessions.LoginSessionManagement;
-import com.example.healthyme.User.AddBloodPressure;
-import com.example.healthyme.User.AddCaloriesIntake;
-import com.example.healthyme.User.AddSugarLevel;
-import com.example.healthyme.User.HistoryBloodPressure;
-import com.example.healthyme.User.HistoryCaloriesIntake;
-import com.example.healthyme.User.HistorySugarLevel;
-import com.example.healthyme.User.UserDashboard;
 import com.github.lzyzsd.circleprogress.DonutProgress;
 import com.github.mikephil.charting.charts.BarChart;
-import com.github.mikephil.charting.charts.HorizontalBarChart;
 import com.github.mikephil.charting.components.XAxis;
 import com.github.mikephil.charting.data.BarData;
 import com.github.mikephil.charting.data.BarDataSet;
 import com.github.mikephil.charting.data.BarEntry;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-
-
 import java.util.ArrayList;
-
 
 public class DynamicsFragment extends Fragment {
 
     FloatingActionButton addSLFab, addBPFab, addCIFab;
     BarChart sugarLevelHBC;
-    Button addCIBtn, historyBPBtn, historySLBtn, historyCIBtn;
+    Button  historyBPBtn, historySLBtn, historyCIBtn;
 
-    int selectedValue;
     DonutProgress caloriesProgress;
     TextView dynamicsUserName, systolic, diastolic, pulse, glyIndex, status;
     ImageView profileImage;
 
-
     @SuppressLint("MissingInflatedId")
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
